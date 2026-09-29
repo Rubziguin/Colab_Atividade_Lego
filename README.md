@@ -4,7 +4,7 @@ LAB da disciplina de **Inteligência Artificial**, Ciência da Computação, **P
 
 O objetivo é completar o preço dos sets LEGO que não têm preço na base usando uma **Rede Neural Artificial (ANN)** do Scikit-Learn.
 
-**Dupla:** _Nome 1_ · _Nome 2_
+**Dupla:** Rubens Rodrigues Luiz Sexto de Luiggi Maranesi RA00331129 // Pedro Gabriel Takenobu Serafim RA00340890
 
 ---
 
